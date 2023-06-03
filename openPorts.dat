@@ -1,0 +1,13 @@
+Host: 192.168.128.14
+Starting Nmap 7.93 ( https://nmap.org ) at 2022-12-24 01:36 Türkiye Standart Saati
+Nmap scan report for 192.168.128.14
+Host is up (0.0079s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT      STATE SERVICE    VERSION
+49152/tcp open  unknown
+49154/tcp open  unknown
+62078/tcp open  tcpwrapped
+MAC Address: E0:2B:96:EA:A6:EA (Apple)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 191.23 seconds
